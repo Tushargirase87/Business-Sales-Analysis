@@ -90,7 +90,7 @@ Created an interactive dashboard to monitor business performance using KPI cards
 
 ### Power BI Dashboard
 
-![Business Sales Power BI Dashboard](images/powerbi/sales_dashboard.png)
+![Business Sales Power BI Dashboard](images/power_bi/sales_dashboard.png)
 
 ### SQL Query Outputs
 
@@ -100,11 +100,11 @@ Created an interactive dashboard to monitor business performance using KPI cards
 
 **Monthly Sales and Profit Trend**
 
-![Monthly Sales and Profit Trend](images/sql/02_monthly_sales_profit_trend.png)
+![Monthly Sales and Profit Trend](images/sql/02_monthly_trend.png)
 
 **Category and Product Performance**
 
-![Category and Product Performance](images/sql/03_category_product_performance.png)
+![Category and Product Performance](images/sql/03_category_performance.png)
 
 **Regional Performance**
 
